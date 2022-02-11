@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Bruno Fernández, from Uruguay!
-- 👀 I’m interested in software development specially focused on backend and infraestructure, but I do frontend also
-- 📖 I’m currently learning Docker, Java with Spring Boot and Angular, to create amazing things, and English to improve my communications skills
-- 👷 I'm currently working as a DBA managing PostgreSQL, MySQL and SQLServer, but I'm looking oportunities to be a full time developer
-- 🔥 Here in GitHub I push everything that I know or learn, and I hope that it can be helpful to you!
+Hi! 👋 
+
+I’m Bruno Fernández, from Uruguay!
+
+I’m interested in software development specially focused on backend and infraestructure, but I do frontend also.
+
+I’m currently learning Docker, Java with Spring Boot and Angular, to create amazing things, and English to improve my communications skills.
+
+I'm currently working as a DBA managing PostgreSQL, MySQL and SQLServer, but I'm looking oportunities to become a full time developer.
+
+Here in GitHub I push everything that I know or learn, and I hope that it can be helpful to you! 🔥
 
 
 
