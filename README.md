@@ -2,7 +2,7 @@ Hi! 👋
 
 I’m Bruno Fernández, from Uruguay!
 
-I’m interested in software development specially focused on backend and infraestructure, but I do frontend also.
+I am interested in software development especially focused on backend and infrastructure, but I also do frontend.
 
 Here in GitHub I push everything that I know or learn, and I hope that it can be helpful to you! 🔥
 
